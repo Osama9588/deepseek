@@ -25,5 +25,10 @@ It’s lightweight, easy to set up, and built to handle common LangChain/Pydanti
    ```
 3. Run the chatbot:  
    ```bash
+   create .env file and add your api key
+   GROQ_API_KEY="your_api_key_here'
+   ```
+4. Run the chatbot:  
+   ```bash
    streamlit run app.py
    ```
