@@ -16,5 +16,14 @@ It’s lightweight, easy to set up, and built to handle common LangChain/Pydanti
 ## 🚀 Getting Started  
 1. **Clone this repo:**  
    ```bash
-   git clone https://github.com/<your-username>/deepseek_groq_streamlit_chatbot.git
-   cd deepseek_groq_streamlit_chatbot
+   git clone https://github.com/Osama9588/deepseek.git
+   cd deepseek
+   ```
+2. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the chatbot:  
+   ```bash
+   streamlit run app.py
+   ```
